@@ -1,0 +1,15 @@
+imasdk.googleapis.com
+playrix.com
+facebook.com
+api2.amplitude.com
+stats.playrix.com
+click.discord.com
+za.zalo.me
+c.office.com
+connect.facebook.com
+connect.facebook.net
+js.monitor.azure.com
+js.datadome.co
+cdnt.netcoresmartech.com
+gecko-sg.byteoversea.com
+go.rmhfrtnd.com
