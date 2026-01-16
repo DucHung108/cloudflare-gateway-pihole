@@ -13,3 +13,4 @@ js.datadome.co
 cdnt.netcoresmartech.com
 gecko-sg.byteoversea.com
 go.rmhfrtnd.com
+rewards.bing.com
